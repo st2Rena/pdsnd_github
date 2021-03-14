@@ -2,15 +2,18 @@
 
 ### Date created
 Include the date you created this project and README file.
-
+14.03.2021
 ### Project Title
-Replace the Project Title
+The Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This project was created to develop cycling, improve the urban environment and the health of citizens
 
 ### Files used
-Include the files used
+bikeshare_2.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
