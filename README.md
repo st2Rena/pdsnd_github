@@ -7,7 +7,7 @@
 The Bikeshare Project
 
 ### Description
-This project was created to develop cycling, improve the urban environment and the health of citizens
+This project was created to develop cycling, improve the urban environment and the health of citizens. This project was used for cities Chikago, New-York and Washington.
 
 ### Files used
 bikeshare_2.py
