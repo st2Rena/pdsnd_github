@@ -175,7 +175,7 @@ def display_data(df):
             print(df.iloc[(k-1)*5:k*5])
         elif ask_user == 'no':
             break
-
+# Defines the main program
 def main():
     while True:
         city, month, day = get_filters()
